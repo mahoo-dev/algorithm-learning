@@ -1,12 +1,10 @@
 {
-  "name": "graph-learning",
+  "name": "algorithm-learning",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "mocha --import=tsx"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
